@@ -1,0 +1,1 @@
+This is a placeholder for SMS_Alert_System.txt in the IoT_Communication folder.
